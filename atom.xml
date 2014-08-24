@@ -4,7 +4,7 @@
   <title><![CDATA[The Tower of Prattle]]></title>
   <link href="http://berniedurfee.github.io/atom.xml" rel="self"/>
   <link href="http://berniedurfee.github.io/"/>
-  <updated>2014-08-24T17:07:37-04:00</updated>
+  <updated>2014-08-24T17:31:05-04:00</updated>
   <id>http://berniedurfee.github.io/</id>
   <author>
     <name><![CDATA[Bernie Durfee]]></name>
@@ -30,9 +30,13 @@
 
 <p>Working without a rich text editor is interesting. I really didn&rsquo;t use much of the rich text stuff anyway. How often do you use the little buttons vs just writing stuff. I&rsquo;m using a text editor (Sublime) because Sublime is cool. Let me figure out how to do a link, hang on&hellip; how&rsquo;s this <a href="http://www.sublimetext.com/">Sublime</a> is cool.</p>
 
-<p>So</p>
+<p>So like I said, I&rsquo;ll be blogging about tech stuff, mostly IT, because I work in IT now. I&rsquo;m trying to do &ldquo;real&rdquo; DevOps. It&rsquo;s not easy! I&rsquo;m doing more development work now, learning Ruby and Python, because they&rsquo;re cool.</p>
 
-<p>Stay with me!</p>
+<p>The one thing about using a text editor is there&rsquo;s no spell checker, which is not cool. Hang on, maybe <a href="http://sublimetext.com/">Sublime</a> has one&hellip; eh, this is annoying. Package Control is not working, because I have it setup to use a proxy for work. But I&rsquo;m not at work, so no proxy and no Package Control. Unless I go disable the proxy, but that&rsquo;s a hassle. I&rsquo;ll open an issue with the Package Control team&hellip; I could just comment it out in the settings JSON, but JSON doesn&rsquo;t do comments. JSON doesn&rsquo;t do comments. Really.</p>
+
+<p>Here&rsquo;s the issue I opened: (<a href="https://github.com/wbond/sublime_package_control/issues/742">https://github.com/wbond/sublime_package_control/issues/742</a>)</p>
+
+<p>That&rsquo;s enough for now. Welcome to the Tower of Prattle&hellip; stay with me!</p>
 ]]></content>
   </entry>
   
