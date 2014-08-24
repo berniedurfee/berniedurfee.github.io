@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[The Tower of Prattle]]></title>
   <link href="http://berniedurfee.github.io/atom.xml" rel="self"/>
   <link href="http://berniedurfee.github.io/"/>
-  <updated>2014-08-24T10:26:52-04:00</updated>
+  <updated>2014-08-24T11:07:34-04:00</updated>
   <id>http://berniedurfee.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Bernie Durfee]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to This New Blog!]]></title>
+    <link href="http://berniedurfee.github.io/blog/2014/08/24/welcome-to-this-new-blog/"/>
+    <updated>2014-08-24T11:03:45-04:00</updated>
+    <id>http://berniedurfee.github.io/blog/2014/08/24/welcome-to-this-new-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
