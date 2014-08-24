@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://berniedurfee.github.io/sitemap.xml 
+Sitemap: http://towerofprattle.com/sitemap.xml 

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[The Tower of Prattle]]></title>
-  <link href="http://berniedurfee.github.io/atom.xml" rel="self"/>
-  <link href="http://berniedurfee.github.io/"/>
-  <updated>2014-08-24T17:31:05-04:00</updated>
-  <id>http://berniedurfee.github.io/</id>
+  <link href="http://towerofprattle.com/atom.xml" rel="self"/>
+  <link href="http://towerofprattle.com/"/>
+  <updated>2014-08-24T17:33:33-04:00</updated>
+  <id>http://towerofprattle.com/</id>
   <author>
     <name><![CDATA[Bernie Durfee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome to This New Blog!]]></title>
-    <link href="http://berniedurfee.github.io/blog/2014/08/24/welcome-to-this-new-blog/"/>
+    <link href="http://towerofprattle.com/blog/2014/08/24/welcome-to-this-new-blog/"/>
     <updated>2014-08-24T11:03:45-04:00</updated>
-    <id>http://berniedurfee.github.io/blog/2014/08/24/welcome-to-this-new-blog</id>
+    <id>http://towerofprattle.com/blog/2014/08/24/welcome-to-this-new-blog</id>
     <content type="html"><![CDATA[<p>Oh it&rsquo;s been a while since I&rsquo;ve blogged at all. Been busy! Fun stuff mostly!</p>
 
 <p>Anyway, I&rsquo;m back, I&rsquo;m sure you&rsquo;ve missed me and I hope to have some fun with this blog.</p>
