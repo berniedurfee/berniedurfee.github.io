@@ -4,7 +4,7 @@
   <title><![CDATA[The Tower of Prattle]]></title>
   <link href="http://berniedurfee.github.io/atom.xml" rel="self"/>
   <link href="http://berniedurfee.github.io/"/>
-  <updated>2014-08-24T16:58:37-04:00</updated>
+  <updated>2014-08-24T17:07:37-04:00</updated>
   <id>http://berniedurfee.github.io/</id>
   <author>
     <name><![CDATA[Bernie Durfee]]></name>
@@ -23,6 +23,14 @@
 <p>Anyway, I&rsquo;m back, I&rsquo;m sure you&rsquo;ve missed me and I hope to have some fun with this blog.</p>
 
 <p>So this blog will be mostly tech stuff, some creative stuff and some other random stuff.</p>
+
+<p>I&rsquo;m building this blog with Octopress. Which is cool. Cooler than Wordpress or most of the other presses. I like that it&rsquo;s static, that&rsquo;s cool. Because guess what, this text isn&rsquo;t going to change much, so why keep it in a database? A blog is static, otherwise it wouldn&rsquo;t really be a blog. So static makes sense. I like things that make sense.</p>
+
+<p>I tried Middleman with the blogging extension, but it didn&rsquo;t work. Not on my Windows machine and not not on my Mac. I didn&rsquo;t want to spend time hacking it. I wanted to spend time writing paragraphs. So I bailed. Octopress had a couple hiccups, but it worked within a short amount of time, so it wins.</p>
+
+<p>Working without a rich text editor is interesting. I really didn&rsquo;t use much of the rich text stuff anyway. How often do you use the little buttons vs just writing stuff. I&rsquo;m using a text editor (Sublime) because Sublime is cool. Let me figure out how to do a link, hang on&hellip; how&rsquo;s this <a href="http://www.sublimetext.com/">Sublime</a> is cool.</p>
+
+<p>So</p>
 
 <p>Stay with me!</p>
 ]]></content>
