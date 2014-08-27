@@ -4,7 +4,7 @@
   <title><![CDATA[The Tower of Prattle]]></title>
   <link href="http://towerofprattle.com/atom.xml" rel="self"/>
   <link href="http://towerofprattle.com/"/>
-  <updated>2014-08-24T17:55:16-04:00</updated>
+  <updated>2014-08-27T14:57:08-04:00</updated>
   <id>http://towerofprattle.com/</id>
   <author>
     <name><![CDATA[Bernie Durfee]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Going to Build a Gem...]]></title>
+    <link href="http://towerofprattle.com/blog/2014/08/27/going-to-build-a-gem-dot-dot-dot/"/>
+    <updated>2014-08-27T14:52:10-04:00</updated>
+    <id>http://towerofprattle.com/blog/2014/08/27/going-to-build-a-gem-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>So here&rsquo;s the challenge&hellip;</p>
+
+<p>I need to be able to mirror GitHub repositories between GitHub instances. Many repositories. So I want a little tool that will take a list of source and destination repositories (YAML?) and will automatically setup and maintain the mirrors.</p>
+
+<p>I&rsquo;m going to start with <a href="https://github.com/technicalpickles/jeweler">Jeweler</a>, which I hear is good&hellip;</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&gt; gem install jeweler
+</span><span class='line'>Fetching: git-1.2.8.gem (100%)
+</span><span class='line'>Successfully installed git-1.2.8
+</span><span class='line'>Fetching: hashie-3.3.1.gem (100%)
+</span><span class='line'>Successfully installed hashie-3.3.1
+</span><span class='line'>Fetching: jwt-1.0.0.gem (100%)
+</span><span class='line'>...
+</span><span class='line'>Parsing documentation for highline-1.6.21
+</span><span class='line'>Installing ri documentation for highline-1.6.21
+</span><span class='line'>Parsing documentation for jeweler-2.0.1
+</span><span class='line'>Installing ri documentation for jeweler-2.0.1
+</span><span class='line'>7 gems installed</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Welcome to This New Blog!]]></title>
